@@ -1,3 +1,4 @@
+🎬 Demo video of this project - https://github.com/mihir1430/Movie-Recommendation-System-with-user-interface-/blob/main/movie%20recomendation%20project%20DEMO.gif
 # 🎬 Movie Recommendation System
 
 ## 📌 Overview
