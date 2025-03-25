@@ -51,8 +51,6 @@ streamlit run app.py
 4. **Web App Development:** Used Streamlit for an interactive UI.
 5. **Final Enhancements:** Added a background image, improved text visibility, and optimized performance.
 
-## 📸 Screenshots
-![Movie Recommendation System](path/to/screenshot.png)
 
 ## 🌟 Future Improvements
 - 🎞️ Add collaborative filtering for better recommendations
